@@ -1,0 +1,11 @@
+F:\job proj\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+F:\job proj\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+F:\job proj\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+F:\job proj\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+F:\job proj\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
+F:\job proj\SampleEventHandlerImplementation\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+F:\job proj\SampleEventHandlerImplementation\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+F:\job proj\SampleEventHandlerImplementation\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
+F:\job proj\SampleEventHandlerImplementation\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+F:\job proj\SampleEventHandlerImplementation\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+F:\job proj\SampleEventHandlerImplementation\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojResolveAssemblyReference.cache
