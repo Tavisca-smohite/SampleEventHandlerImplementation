@@ -30,13 +30,19 @@ namespace EventsAndDelegates
         {
             Console.WriteLine("video of title " + video.Title + "is encoding..");
             Thread.Sleep(3000);
-            OnVideoEncoded(video);
+           // OnVideoEncoded(video); for sub-pub model without event aggregator
+            EventAggregator.Publish(new VideoEventArgs { Video = video });
+            EventAggregator.Publish<string>("simple message raised as event without event args");
+            EventAggregator.Publish<MessageEventArgs>(new MessageEventArgs { Message = "message event" ,Countdown=10});
         }
-
+         
         public void OnVideoEncoded(Video video)
         {
             if (VideoEncoded != null)
                 VideoEncoded(this, new VideoEventArgs { Video=video});
         }
+
+
+
     }
 }
