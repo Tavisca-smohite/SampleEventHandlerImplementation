@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<EventSubscriptionInformations>
+  <Event name="VideoEventArgs" type="EventsAndDelegates.VideoEventArgs, EventsAndDelegates">
+  <SubscriptionInformation>   
+    <ClassInformation name ="MailService" type="EventsAndDelegates.MailService, EventsAndDelegates"></ClassInformation>
+    <MethodInformation name ="OnVideoEncoded">
+      <!--<Parameter type ="EventsAndDelegates.VideoEventArgs, EventsAndDelegates"/>-->
+    </MethodInformation>
+   
+  </SubscriptionInformation>
+  </Event>
+</EventSubscriptionInformations>
